@@ -1,0 +1,146 @@
+body {
+    background-color: rgb(255, 249, 230);
+}
+
+.button1 {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.button2 {
+    font-size: 20px;
+    padding: 20px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+
+.Mo {
+    font-size: 25px; 
+}
+
+.Mo:hover {
+    text-decoration-line: underline;
+    font-size:30px;
+}
+
+.homebutton img {
+    width: 80px; 
+}
+
+.element {
+    font-size: 30px;
+    padding: 20px;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    color:forestgreen;
+    border-style: solid;
+    padding:10px;
+    font-size:20px;
+}
+
+h3 {
+    color:crimson;
+    border-style: solid;
+    padding:10px;
+    font-size:20px;
+}
+
+h4 {
+    color:blueviolet;
+    border-style: solid;
+    padding:10px;
+    font-size:20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: black;
+}
+
+.personal_images {
+    background-color: lavender;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#text {
+    padding-left: 800px;
+    padding-right:300px;
+    justify-content: center;
+    text-decoration-line:underline;
+}
+
+.About_me {
+    text-align: center;
+}
+
+.personal_info {
+    background-color: lightblue;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.personal_info:hover {
+    text-decoration-line: underline;
+    font-size:25px;
+}
+
+.interests_title {
+    background-color: lightgreen;
+    margin-top: 100px;
+    margin-left: 325px;
+    margin-right: 325px;
+    text-align: center;
+    text-decoration-line:underline;
+}
+
+#I1 {
+    font-size: 30px;
+}
+
+.subtitles {
+    display: flex;
+    justify-content: space-around;
+    text-decoration-color: aquamarine;
+}
+
+.Interest_images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.interests_info {
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.interests_info:hover {
+    text-decoration-line: underline;
+    font-size:25px;
+}
+
+.contact {
+    border-style: dotted;
+    border-color: blue;
+}
+.contact_title {
+    text-decoration-line: underline;
+    font-size: 25px;
+}
+
+.contact_info:hover {
+    font-size: 25px;
+}
